@@ -1,2 +1,2 @@
 # Yashopatha
-This repository contains a basic example project demonstrating [insert key purpose, e.g., RESTful API design, CRUD operations, React UI structure, etc.]
+It is intended for educational purposes and serves as a starting point for beginners or as a boilerplate for new projects.
